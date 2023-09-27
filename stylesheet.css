@@ -1,0 +1,15 @@
+.responsive{
+    width: 100%;
+ 
+    height: auto;
+    min-height: 280px;
+   
+}
+
+#head{
+    font-family: "Sacramento", cursive;
+    color: #6BA368;
+    font-size: 5rem;
+    padding-left: 950px;
+}
+
